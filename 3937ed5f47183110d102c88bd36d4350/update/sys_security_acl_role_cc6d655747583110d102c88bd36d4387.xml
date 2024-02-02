@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 04:50:20</sys_created_on>
+        <sys_id>cc6d655747583110d102c88bd36d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_993932_safety_x_snc_safety_issues.x_993932_safety.user</sys_name>
+        <sys_package display_value="Safety" source="x_993932_safety">3937ed5f47183110d102c88bd36d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3937ed5f47183110d102c88bd36d4350</sys_scope>
+        <sys_security_acl display_value="x_993932_safety_x_snc_safety_issues">886d655747583110d102c88bd36d4384</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc6d655747583110d102c88bd36d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 04:50:20</sys_updated_on>
+        <sys_user_role display_value="x_993932_safety.user" name="x_993932_safety.user">8e37ed5f47183110d102c88bd36d4380</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

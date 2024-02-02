@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>ef6b3a7547237194d102c88bd36d432e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent">
+    <ecc_agent action="INSERT_OR_UPDATE">
+        <application_experience>cannot_determine</application_experience>
+        <application_experience_status>cannot_determine</application_experience_status>
+        <auto_invalidated>false</auto_invalidated>
+        <container_deployment_name/>
+        <container_deployment_namespace/>
+        <container_id>SNVANDOCKWIN73</container_id>
+        <deployment_mid_id/>
+        <fips_enforced>false</fips_enforced>
+        <home_dir>C:\snc_mid_server\agent</home_dir>
+        <host_cpu_core_count>1</host_cpu_core_count>
+        <host_cpu_speed>1997</host_cpu_speed>
+        <host_disk_size>126.9 GB</host_disk_size>
+        <host_disk_size_bytes>136229920768</host_disk_size_bytes>
+        <host_glibc_version/>
+        <host_hyperthreading>true</host_hyperthreading>
+        <host_name>SNVANDOCKWIN73</host_name>
+        <host_os_address_width>64-bit</host_os_address_width>
+        <host_os_distribution>Microsoft</host_os_distribution>
+        <host_os_version>10.0.17763</host_os_version>
+        <host_powershell_version>5.1.17763.5202</host_powershell_version>
+        <host_total_ram>1023</host_total_ram>
+        <host_type>Windows</host_type>
+        <idle_since>2024-02-02 00:06:02</idle_since>
+        <invalidated_at/>
+        <invalidated_by/>
+        <ip_address>172.17.226.179</ip_address>
+        <is_running_using_system>false</is_running_using_system>
+        <is_using_custom_cert>false</is_using_custom_cert>
+        <is_using_mutual_auth>false</is_using_mutual_auth>
+        <jfr_rec_state>STOPPED</jfr_rec_state>
+        <jvm_version>11.0.16.1-sncmid1</jvm_version>
+        <last_refreshed>2024-02-02 00:05:59</last_refreshed>
+        <mid_java_command_dir>C:\snc_mid_server\agent\jre\bin\java.exe</mid_java_command_dir>
+        <mid_maximum_ram>1024</mid_maximum_ram>
+        <name>DOCKER_VANCOUVER_MID</name>
+        <network>172.17.224.0/20</network>
+        <nmap_version/>
+        <number_of_agents>0</number_of_agents>
+        <profile_id/>
+        <public_key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3rAsBQmCehSPNrawbXBF2wrmCCgij2yLpm3P2/pLIqQPHmWaIbBv1VxokTGhuQa1zMGKyEpIVtXXdd5rm22hfG2LWHADZg1KfT42nkgT69AV0Om+Uq3HIlBnt6WjTvAxz43iOT0S4+P+EOQ/927K4EiaYB3DdqIdioNJcFZPBuUxNq5xnyNPefhoTyGSlODE/9FSikokNFGIEMuZapAmTdHNyCdj+iOruV/XlRbeQM7byfNjf7AKg2wCqYYhtYzOOGHcnkvLHVwJGFnvpVGKjRT1zsS6uoB7WabupMn1Ntx00pmDEfnRjd/cy5Qgshf7Y49w2SsnJ22YTojFPTDQUwIDAQAB</public_key>
+        <purpose/>
+        <router>172.17.224.1</router>
+        <started>2024-02-02 00:03:59</started>
+        <status>Down</status>
+        <stopped>2024-02-02 00:07:37</stopped>
+        <sys_created_by>sncmid</sys_created_by>
+        <sys_created_on>2024-01-06 08:04:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef6b3a7547237194d102c88bd36d432e</sys_id>
+        <sys_mod_count>3596</sys_mod_count>
+        <sys_updated_by>sncmid</sys_updated_by>
+        <sys_updated_on>2024-02-02 00:07:38</sys_updated_on>
+        <timezone>America/Los_Angeles</timezone>
+        <uid/>
+        <unresolved_issues>1</unresolved_issues>
+        <used_installer>false</used_installer>
+        <user_name>sncmid</user_name>
+        <validated>true</validated>
+        <validated_at>2024-01-06 08:04:42</validated_at>
+        <validated_by>admin</validated_by>
+        <version>vancouver-07-06-2023__patch2-hotfix1-10-04-2023_10-06-2023_1235</version>
+        <win_domain>WORKGROUP</win_domain>
+        <wrapper_name>snc_mid</wrapper_name>
+    </ecc_agent>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 22:45:47</sys_created_on>
+        <sys_id>6f08013e47488210d102c88bd36d43c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DOCKER_VANCOUVER_MID</sys_name>
+        <sys_package display_value="Safety" source="x_993932_safety">3937ed5f47183110d102c88bd36d4350</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">3937ed5f47183110d102c88bd36d4350</sys_scope>
+        <sys_update_name>sys_metadata_link_6f08013e47488210d102c88bd36d43c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 22:45:47</sys_updated_on>
+        <tablename>ecc_agent</tablename>
+    </sys_metadata_link>
+</record_update>
